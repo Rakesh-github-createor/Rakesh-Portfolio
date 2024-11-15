@@ -1,0 +1,189 @@
+[
+
+  
+  
+  {
+    "name": "Weatherly Android",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/rakesh-ranjan-7bb17b167 rakesh ranjan_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/Rakesh-github-createor"
+    }
+  },
+ 
+  
+  {
+    "name": "resumegenerator",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegenerator",
+    "category": "mern",
+    "links": {
+      "view": " https://resumegenerator-beta.vercel.app/",
+      "code": "https://github.com/Rakesh-github-createor/resumegenerator"
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/Rakesh Ranjan/React-Projects"
+    }
+  },
+  {
+    "name": "Flipkart PHP",
+    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/Rakesh-Ranjan/Flipkart-Clone-PHP",
+      "code": "https://github.com/Rakesh-Ranjan/Flipkart-Clone-PHP"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://Rakesh-Ranjan.github.io/JavaScript-Projects",
+      "code": "https://github.com/Rakesh-Ranjan/JavaScript-Projects"
+    }
+  },
+  {
+    "name": "Web UI Clones",
+    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
+    "image": "webuiclones",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Rakesh-Ranjan/web-ui-clones",
+      "code": "https://github.com/Rakesh-Ranjan/web-ui-clones"
+    }
+  },
+  
+  
+  
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Rakesh-github-createor/Portfolio-Rakesh"
+    }
+  },
+  
+ 
+
+  {
+    "name": "PHP Banking Website",
+    "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
+    "image": "tsfbank",
+    "category": "lamp",
+    "links": {
+      "view": "https://tsfbank.rf.gd",
+      "code": "https://github.com/Rakesh-Ranjan/TSF-Bank"
+    }
+  },
+  {
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "bootstrapportfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Bootstrap Template",
+    "desc": "Basic website template built using HTML and Bootstrap.",
+    "image": "bootstraptemplate",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  {
+    "name": "Food Website",
+    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "image": "foodwebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  {
+    "name": "Basic Banking App",
+    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
+    "image": "basicbank",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/Rakesh-Ranjan/Basic_Banking_App#basic-banking-app",
+      "code": "https://github.com/Rakesh-Ranjan/Basic_Banking_App"
+    }
+  },
+  {
+    "name": "JavaScript Issue Tracker",
+    "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
+    "image": "issuetrack",
+    "category": "basicweb",
+    "links": {
+      "view": "https://Rakesh-Ranjan.github.io/JavaScript-Projects/projects/issuetracker",
+      "code": "https://github.com/Rakesh-Ranjan/JavaScript-Projects/tree/main/projects/issuetracker"
+    }
+  },
+
+ 
+
+  
+  {
+    "name": "Burger Shop Dummy",
+    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
+    "image": "burgerweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
